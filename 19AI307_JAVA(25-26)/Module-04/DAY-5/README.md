@@ -1,4 +1,4 @@
-# Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 Design a program where a Product model stores item info, and the view displays it. Implement a controller to update product price and refresh the view automatically.
@@ -127,3 +127,4 @@ public class ProductManagementSystem {
 
 ## RESULT:
 The program successfully implemented a behavioral design pattern using MVC, where the controller updates product price and automatically refreshes the view.
+
