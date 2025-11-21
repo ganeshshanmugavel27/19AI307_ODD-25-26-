@@ -61,3 +61,4 @@ public class ChainingStreamsExample {
 ## RESULT:
 The program successfully demonstrates chaining of input streams using BufferedReader and InputStreamReader. It reads the user's name and age from the console and displays them without errors.
 
+
