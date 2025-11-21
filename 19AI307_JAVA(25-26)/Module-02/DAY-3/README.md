@@ -115,5 +115,5 @@ class prog {
 The program successfully implemented access specifiers using private instance variables and public getter and setter methods in Java.
 
 
-## RESULT:
+
 
