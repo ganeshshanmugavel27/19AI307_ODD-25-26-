@@ -54,3 +54,4 @@ public class ArmstrongCheck {
 The program correctly reads a number, computes the sum of its digits raised to the required power, and successfully determines whether the given number is an Armstrong number or not.
 
 
+
